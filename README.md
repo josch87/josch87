@@ -32,7 +32,7 @@ Als IT Projektmanager und Scrum Product Owner lege ich meinen Schwerpunkt auf di
 	<a href="#"><img alt="AGS Server Studio" src="https://img.shields.io/badge/-AGS Server Studio-E34F26?style=flat-square&logo=&logoColor=white" /></a>
 
 ### Certificates
-<a href="https://www.credly.com/badges/41d2e174-cc47-4928-876e-d56c836c6d25/public_url"><img alt="Professional Scrum Product Owner&trade; I (PSPO I) Badge" title="Professional Scrum Product Owner&trade; I (PSPO I)" src="https://images.credly.com/size/340x340/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width="120" height="120"></a>
+<a href="https://www.credly.com/badges/41d2e174-cc47-4928-876e-d56c836c6d25/public_url"><img alt="Professional Scrum Product Owner&trade; I (PSPO I) Badge" title="Professional Scrum Product Owner&trade; I (PSPO I)" src="/assets/badges/professional-scrum-product-owner-i-pspo-i.png" width="120" height="120"></a>
 
 Currently working on:
 
