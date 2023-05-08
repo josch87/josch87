@@ -24,7 +24,13 @@ Als IT Projektmanager und Scrum Product Owner lege ich meinen Schwerpunkt auf di
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-E34F26?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
 	<a href="#"><img alt="Office (Word, PowerPoint, Excel, Access)" src="https://img.shields.io/badge/-Office (Word, PowerPoint, Excel, Access)-E34F26?style=flat-square&logo=microsoftoffice&logoColor=white" /></a>
 - Adobe
+	<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-E34F26?style=flat-square&logo=adobephotoshop&logoColor=white" /></a>
+	<a href="#"><img alt="InDesign" src="https://img.shields.io/badge/-InDesign-E34F26?style=flat-square&logo=adobeindesign&logoColor=white" /></a>
 - Web
+	<a href="#"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-E34F26?style=flat-square&logo=wordpress&logoColor=white" /></a>
+	<a href="#"><img alt="FirstSpirit" src="https://img.shields.io/badge/-FirstSpirit-E34F26?style=flat-square" /></a>
+	<a href="#"><img alt="Miro" src="https://img.shields.io/badge/-Miro-E34F26?style=flat-square&logo=miro&logoColor=white" /></a>
+	<a href="#"><img alt="Mural" src="https://img.shields.io/badge/-Miro-E34F26?style=flat-square&logo=miro&logoColor=white" /></a>
 - Other
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=white" /></a>
 	<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-E34F26?style=flat-square&logo=&logoColor=white" /></a>
