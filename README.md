@@ -16,7 +16,7 @@ Als IT Projektmanager und Scrum Product Owner lege ich meinen Schwerpunkt auf di
 ### Software
 - Atlassian:
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/-Jira-E34F26?style=flat-square&logo=jira&logoColor=white" /></a>
-  <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/-Confluence-E34F26?style=flat-square&logo=jira&logoColor=white" /></a>
+  <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/-Confluence-E34F26?style=flat-square&logo=confluence&logoColor=white" /></a>
   <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-E34F26?style=flat-square&logo=bitbucket&logoColor=white" /></a>
   <a href="#"><img alt="Bamboo" src="https://img.shields.io/badge/-Bamboo-E34F26?style=flat-square&logo=bamboo&logoColor=white" /></a>
 - Microsoft
