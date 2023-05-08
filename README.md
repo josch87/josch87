@@ -30,7 +30,7 @@ Als IT Projektmanager und Scrum Product Owner lege ich meinen Schwerpunkt auf di
 	<a href="#"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-E34F26?style=flat-square&logo=wordpress&logoColor=white" /></a>
 	<a href="#"><img alt="FirstSpirit" src="https://img.shields.io/badge/-FirstSpirit-E34F26?style=flat-square" /></a>
 	<a href="#"><img alt="Miro" src="https://img.shields.io/badge/-Miro-E34F26?style=flat-square&logo=miro&logoColor=white" /></a>
-	<a href="#"><img alt="Mural" src="https://img.shields.io/badge/-Miro-E34F26?style=flat-square&logo=miro&logoColor=white" /></a>
+	<a href="#"><img alt="Mural" src="https://img.shields.io/badge/-Mural-E34F26?style=flat-square&" /></a>
 - Other
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=white" /></a>
 	<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-E34F26?style=flat-square&logo=&logoColor=white" /></a>
