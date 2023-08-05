@@ -44,6 +44,8 @@ Currently working at the software department of the [Berlin International Film F
 <a href="https://www.mongodb.com/" title="MongoDB">![HTML](https://skillicons.dev/icons?i=mongodb)</a>
 <a href="https://git-scm.com/" title="Git">![HTML](https://skillicons.dev/icons?i=git)</a>
 
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-fafafa?style=for-the-badge&logo=html5&logoColor=E34F26" />
+
 <div>
 	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
