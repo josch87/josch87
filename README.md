@@ -4,10 +4,8 @@
 
 ## Product Owner | IT Project Manager | Frontend Developer
 
-<div style="float: right;">
-  <img alt="Software Engineer building an app" src="assets/software-engineer.gif" width="300px"/>
-  <a style="float: right; font-size: 0.8rem;" href="https://storyset.com/people">People illustrations by Storyset</a>
-</div>
+<img style="float: right;" alt="Software Engineer building an app" src="assets/software-engineer.gif" width="300px"/>
+<!-- <a style="font-size: 0.8rem;" href="https://storyset.com/people">People illustrations by Storyset</a> -->
 
 As a **Product Owner** and **IT Project Manager**, my focus is on leveraging my expertise in **frontend technologies and databases**. As a **trained actor**, I can easily empathize with stakeholders to gather and process requirements in an understandable manner.
 
