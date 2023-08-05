@@ -9,7 +9,8 @@
 <a align="right" href="https://storyset.com/people">People illustrations by Storyset</a>
 </div> -->
 
-<img align="right" alt="Software Engineer building an app" src="assets/software-engineer.gif" width="300px"/>
+<img align="right" alt="Software Engineer building an app" src="assets/software-engineer.gif" width="200" height="200"/>
+
 As a **Product Owner** and **IT Project Manager**, my focus is on leveraging my expertise in **frontend technologies and databases**. As a **trained actor**, I can easily empathize with stakeholders to gather and process requirements in an understandable manner.
 
 I speak German and English and live in Berlin, Germany.
