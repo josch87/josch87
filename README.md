@@ -31,11 +31,14 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://add0n.com/stylus.html"><img alt="Stylus" src="https://img.shields.io/badge/-Stylus-ffffff?style=for-the-badge&logo=stylus&logoColor=333333" /></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37" /></a>
 <a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-ffffff?style=for-the-badge" /></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032" /></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717" /></a>
+<a href="https://www.npmjs.com/"><img alt="NPM" src="https://img.shields.io/badge/-NPM-ffffff?style=for-the-badge&logo=npm&logoColor=CB3837" /></a>
 <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
 <a href="https://httpd.apache.org/"><img alt="Apache" src="https://img.shields.io/badge/-Apache-ffffff?style=for-the-badge&logo=apache&logoColor=D22128" /></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
 <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/-Notepad++-ffffff?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A" /></a>
+<a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/-FileZilla-ffffff?style=for-the-badge&logo=filezilla&logoColor=BF0000" /></a>
 <a href="https://www.e-spirit.com/"><img alt="FirstSpirit" src="https://img.shields.io/badge/-FirstSpirit-ffffff?style=for-the-badge" /></a>
 <a href="https://wordpress.org/"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-ffffff?style=for-the-badge&logo=wordpress&logoColor=21759B" /></a>
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
@@ -44,6 +47,9 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-ffffff?style=for-the-badge&logo=sqlite&logoColor=003B57" /></a>
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
 <a href="https://mongoosejs.com/"><img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-ffffff?style=for-the-badge&logo=mongoose&logoColor=880000" /></a>
+<a href="https://dbeaver.io/"><img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-ffffff?style=for-the-badge" /></a>
+<a href="https://www.sqlmaestro.com/products/postgresql/maestro/"><img alt="PostgreSQL Maestro" src="https://img.shields.io/badge/-PostgreSQL%20Maestro-ffffff?style=for-the-badge" /></a>
+<a href="https://serverstudio.com/products/serverstudio/"><img alt="AGS Server Studio" src="https://img.shields.io/badge/-AGS%20Server%20Studio-ffffff?style=for-the-badge" /></a>
 <a href="https://www.atlassian.com/jira"><img alt="Jira" src="https://img.shields.io/badge/-Jira-ffffff?style=for-the-badge&logo=jira&logoColor=0052CC" /></a>
 <a href="https://www.atlassian.com/confluence"><img alt="Confluence" src="https://img.shields.io/badge/-Confluence-ffffff?style=for-the-badge&logo=confluence&logoColor=172B4D" /></a>
 <a href="https://www.atlassian.com/bitbucket"><img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-ffffff?style=for-the-badge&logo=bitbucket&logoColor=0052CC" /></a>
@@ -56,11 +62,7 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://www.adobe.com/dreanweaver"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/-Adobe%20Dreamweaver-ffffff?style=for-the-badge&logo=adobedreamweaver&logoColor=FF61F6" /></a>
 <a href="https://miro.com/"><img alt="Miro" src="https://img.shields.io/badge/-Miro-ffffff?style=for-the-badge&logo=miro&logoColor=050038" /></a>
 <a href="https://www.mural.co/"><img alt="Mural" src="https://img.shields.io/badge/-Mural-ffffff?style=for-the-badge&" /></a>
-<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032" /></a>
 <a href="https://www.microsoft.com/access/"><img alt="Microsoft Access" src="https://img.shields.io/badge/-Microsoft%20Access-ffffff?style=for-the-badge&logo=microsoftaccess&logoColor=A4373A" /></a>
-<a href="https://dbeaver.io/"><img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-ffffff?style=for-the-badge" /></a>
-<a href="https://www.sqlmaestro.com/products/postgresql/maestro/"><img alt="PostgreSQL Maestro" src="https://img.shields.io/badge/-PostgreSQL%20Maestro-ffffff?style=for-the-badge" /></a>
-<a href="https://serverstudio.com/products/serverstudio/"><img alt="AGS Server Studio" src="https://img.shields.io/badge/-AGS%20Server%20Studio-ffffff?style=for-the-badge" /></a>
 <a href="#"><img alt="Regex" src="https://img.shields.io/badge/-Regex-ffffff?style=for-the-badge" /></a>
 
 ### Certificates
