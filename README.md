@@ -1,16 +1,13 @@
-# Hey, I'm Aljoscha!
-
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=407cff&height=200&text=Aljoscha%20Zöller&fontAlign=70&rotate=13&fontColor=ffffff&fontSize=60&fontAlignY=20&desc=Product%20Owner%20|%20IT%20Project%20Manager%20|%20Frontend%20Developer&descAlign=70.&descAlignY=44)
 
-<div style="float: right;">
-
-  <img alt="Software Engineer building an app" src="assets/software-engineer.gif" width="300px"/>
-
-<a style="float: right;" href="https://storyset.com/people">People illustrations by Storyset</a>
-
-</div>
+# Hey, I'm Aljoscha!
 
 ## Product Owner | IT Project Manager | Frontend Developer
+
+<div style="float: right;">
+  <img alt="Software Engineer building an app" src="assets/software-engineer.gif" width="300px"/>
+  <a style="float: right; font-size: 0.8rem;" href="https://storyset.com/people">People illustrations by Storyset</a>
+</div>
 
 As a **Product Owner** and **IT Project Manager**, my focus is on leveraging my expertise in **frontend technologies and databases**. As a **trained actor**, I can easily empathize with stakeholders to gather and process requirements in an understandable manner.
 
@@ -89,7 +86,7 @@ Currently working at the software department of the [Berlin International Film F
   <a href="https://dbeaver.io/"><img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-ffffff?style=for-the-badge" /></a>
   <a href="https://www.sqlmaestro.com/products/postgresql/maestro/"><img alt="PostgreSQL Maestro" src="https://img.shields.io/badge/-PostgreSQL%20Maestro-ffffff?style=for-the-badge" /></a>
   <a href="https://serverstudio.com/products/serverstudio/"><img alt="AGS Server Studio" src="https://img.shields.io/badge/-AGS%20Server%20Studio-ffffff?style=for-the-badge" /></a>
-  <a href=""><img alt="Regex" src="https://img.shields.io/badge/-Regex-ffffff?style=for-the-badge" /></a>
+  <a href="#"><img alt="Regex" src="https://img.shields.io/badge/-Regex-ffffff?style=for-the-badge" /></a>
 
 </div>
 
