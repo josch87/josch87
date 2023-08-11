@@ -39,6 +39,7 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
 <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/-Notepad++-ffffff?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A" /></a>
 <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/-FileZilla-ffffff?style=for-the-badge&logo=filezilla&logoColor=BF0000" /></a>
+<a href="https://winscp.net/"><img alt="WinSCP" src="https://img.shields.io/badge/-WinSCP-ffffff?style=for-the-badge" /></a>
 <a href="https://www.e-spirit.com/"><img alt="FirstSpirit" src="https://img.shields.io/badge/-FirstSpirit-ffffff?style=for-the-badge" /></a>
 <a href="https://wordpress.org/"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-ffffff?style=for-the-badge&logo=wordpress&logoColor=21759B" /></a>
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
@@ -57,6 +58,7 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/-Windows-ffffff?style=for-the-badge&logo=windows&logoColor=0078D4" /></a>
 <a href="https://www.apple.com/macos/"><img alt="macOS" src="https://img.shields.io/badge/-macOS-ffffff?style=for-the-badge&logo=macos&logoColor=000000" /></a>
 <a href="https://kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-ffffff?style=for-the-badge&logo=linux&logoColor=FCC624" /></a>
+<a href="https://www.adobe.com/acrobat/"><img alt="Adobe Acrobat Pro" src="https://img.shields.io/badge/-Adobe%20Acrobat%20Pro-ffffff?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" /></a>
 <a href="https://www.adobe.com/photoshop/"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-ffffff?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /></a>
 <a href="https://www.adobe.com/indesign/"><img alt="Adobe InDesign" src="https://img.shields.io/badge/-Adobe%20InDesign-ffffff?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" /></a>
 <a href="https://www.adobe.com/dreamweaver"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/-Adobe%20Dreamweaver-ffffff?style=for-the-badge&logo=adobedreamweaver&logoColor=FF61F6" /></a>
