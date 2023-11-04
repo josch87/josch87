@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=407cff&height=200&text=Aljoscha%20Zöller&fontAlign=70&rotate=13&fontColor=ffffff&fontSize=60&fontAlignY=20&desc=Product%20Owner%20|%20IT%20Project%20Manager%20|%20Frontend%20Developer&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=407cff&height=200&text=Aljoscha%20Zöller&fontAlign=69&rotate=13&fontColor=ffffff&fontSize=60&fontAlignY=20&desc=Product%20Owner%20|%20IT%20Project%20Manager%20|%20Frontend%20Developer&descAlign=70&descAlignY=44)
 
 # Hey, I'm Aljoscha!
 
