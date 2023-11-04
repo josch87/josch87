@@ -63,7 +63,7 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://www.adobe.com/indesign/"><img alt="Adobe InDesign" src="https://img.shields.io/badge/-Adobe%20InDesign-ffffff?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" /></a>
 <a href="https://www.adobe.com/dreamweaver"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/-Adobe%20Dreamweaver-ffffff?style=for-the-badge&logo=adobedreamweaver&logoColor=FF61F6" /></a>
 <a href="https://miro.com/"><img alt="Miro" src="https://img.shields.io/badge/-Miro-ffffff?style=for-the-badge&logo=miro&logoColor=050038" /></a>
-<a href="https://www.mural.co/"><img alt="Mural" src="https://img.shields.io/badge/-Mural-ffffff?style=for-the-badge&" /></a>
+<a href="https://www.mural.co/"><img alt="Mural" src="https://img.shields.io/badge/-Mural-ffffff?style=for-the-badge&logo=mural&logoColor=FF4B4B" /></a>
 <a href="https://www.microsoft.com/access/"><img alt="Microsoft Access" src="https://img.shields.io/badge/-Microsoft%20Access-ffffff?style=for-the-badge&logo=microsoftaccess&logoColor=A4373A" /></a>
 <a href="#"><img alt="Regex" src="https://img.shields.io/badge/-Regex-ffffff?style=for-the-badge" /></a>
 
