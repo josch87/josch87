@@ -62,6 +62,7 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://www.adobe.com/photoshop/"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-ffffff?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /></a>
 <a href="https://www.adobe.com/indesign/"><img alt="Adobe InDesign" src="https://img.shields.io/badge/-Adobe%20InDesign-ffffff?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" /></a>
 <a href="https://www.adobe.com/dreamweaver"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/-Adobe%20Dreamweaver-ffffff?style=for-the-badge&logo=adobedreamweaver&logoColor=FF61F6" /></a>
+<a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E" /></a>
 <a href="https://miro.com/"><img alt="Miro" src="https://img.shields.io/badge/-Miro-ffffff?style=for-the-badge&logo=miro&logoColor=050038" /></a>
 <a href="https://www.mural.co/"><img alt="Mural" src="https://img.shields.io/badge/-Mural-ffffff?style=for-the-badge&logo=mural&logoColor=FF4B4B" /></a>
 <a href="https://www.microsoft.com/access/"><img alt="Microsoft Access" src="https://img.shields.io/badge/-Microsoft%20Access-ffffff?style=for-the-badge&logo=microsoftaccess&logoColor=A4373A" /></a>
@@ -70,5 +71,5 @@ At present, I am working at the software department of the [Berlin International
 ### Certificates
 
 <a href="https://www.credly.com/badges/41d2e174-cc47-4928-876e-d56c836c6d25/public_url"><img alt="Professional Scrum Product Owner&trade; I (PSPO I) Badge" title="Professional Scrum Product Owner&trade; I (PSPO I)" src="assets/badges/professional-scrum-product-owner-i-pspo-i.png" width="120" height="120"></a>
-<a href="https://www.credly.com/org/axelos/badge/prince2-agile-foundation"><img alt="PRINCE2 Agile&reg; Foundation Badge" title="PRINCE2 Agile&reg; Foundation" src="https://images.credly.com/size/340x340/images/8b3e7863-929a-4adf-8fa0-caf4751d5c91/image.png" width="120" height="120"></a>
-<a href="https://www.credly.com/org/axelos/badge/prince2-agile-practitioner"><img alt="PRINCE2 Agile&reg; Practitioner Badge" title="PRINCE2 Agile&reg; Practitioner" src="https://images.credly.com/size/340x340/images/746add91-6826-4ad7-b124-df88a042e4ed/image.png" width="120" height="120"></a>
+<a href="https://www.credly.com/org/peoplecert/badge/prince2-agile-foundation"><img alt="PRINCE2 Agile&reg; Foundation Badge" title="PRINCE2 Agile&reg; Foundation" src="assets/badges/prince2-agile-foundation-badge.png" width="120" height="120"></a>
+<a href="https://www.credly.com/org/peoplecert/badge/prince2-agile-practitioner"><img alt="PRINCE2 Agile&reg; Practitioner Badge" title="PRINCE2 Agile&reg; Practitioner" src="assets/badges/prince2-agile-practitioner-badge.png" width="120" height="120"></a>
