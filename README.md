@@ -70,5 +70,5 @@ At present, I am working at the software department of the [Berlin International
 ### Certificates
 
 <a href="https://www.credly.com/badges/41d2e174-cc47-4928-876e-d56c836c6d25/public_url"><img alt="Professional Scrum Product Owner&trade; I (PSPO I) Badge" title="Professional Scrum Product Owner&trade; I (PSPO I)" src="assets/badges/professional-scrum-product-owner-i-pspo-i.png" width="120" height="120"></a>
-<a href="https://www.credly.com/org/axelos/badge/prince2-agile-foundation"><img alt="PRINCE2 Agile&reg; Foundation Badge" title="PRINCE2 Agile&reg; Foundation" src="https://images.credly.com/size/340x340/images/8b3e7863-929a-4adf-8fa0-caf4751d5c91/image.png" width="120" height="120"></a>
-<a href="https://www.credly.com/org/axelos/badge/prince2-agile-practitioner"><img alt="PRINCE2 Agile&reg; Practitioner Badge" title="PRINCE2 Agile&reg; Practitioner" src="https://images.credly.com/size/340x340/images/746add91-6826-4ad7-b124-df88a042e4ed/image.png" width="120" height="120"></a>
+<a href="https://www.credly.com/org/peoplecert/badge/prince2-agile-foundation"><img alt="PRINCE2 Agile&reg; Foundation Badge" title="PRINCE2 Agile&reg; Foundation" src="assets/badges/prince2-agile-foundation-badge.png" width="120" height="120"></a>
+<a href="https://www.credly.com/org/peoplecert/badge/prince2-agile-practitioner"><img alt="PRINCE2 Agile&reg; Practitioner Badge" title="PRINCE2 Agile&reg; Practitioner" src="assets/badges/prince2-agile-practitioner-badge.png" width="120" height="120"></a>
