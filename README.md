@@ -2,7 +2,7 @@
 
 # Hey, I'm Aljoscha!
 
-## Product Owner | IT Project Manager | Frontend Developer
+## Product Owner | IT Project Manager | Fullstack Developer
 
 <img align="right" alt="Software Engineer building an app" src="assets/software-engineer.gif" width="200" height="200"/>
 
