@@ -68,6 +68,8 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://www.microsoft.com/access/"><img alt="Microsoft Access" src="https://img.shields.io/badge/-Microsoft%20Access-ffffff?style=for-the-badge&logo=microsoftaccess&logoColor=A4373A" /></a>
 <a href="#"><img alt="Regex" src="https://img.shields.io/badge/-Regex-ffffff?style=for-the-badge" /></a>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josch87&layout=compact)
+
 ### Certificates
 
 <a href="https://www.credly.com/badges/41d2e174-cc47-4928-876e-d56c836c6d25/public_url"><img alt="Professional Scrum Product Owner&trade; I (PSPO I) Badge" title="Professional Scrum Product Owner&trade; I (PSPO I)" src="assets/badges/professional-scrum-product-owner-i-pspo-i.png" width="120" height="120"></a>
