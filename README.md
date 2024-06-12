@@ -2,7 +2,7 @@
 
 # Hey, I'm Aljoscha!
 
-## Product Owner | IT Project Manager | Frontend Developer
+## Product Owner | IT Project Manager | Fullstack Developer
 
 <img align="right" alt="Software Engineer building an app" src="assets/software-engineer.gif" width="200" height="200"/>
 
@@ -20,10 +20,14 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
+<a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge" /></a>
 <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000000" /></a>
 <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
+<a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/-Spring-ffffff?style=for-the-badge&logo=spring&logoColor=6DB33F" /></a>
 <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/-Jest-ffffff?style=for-the-badge&logo=jest&logoColor=C21325" /></a>
+<a href="https://junit.org/junit5/"><img alt="JUnit" src="https://img.shields.io/badge/-JUnit-ffffff?style=for-the-badge&logo=junit5&logoColor=25A162" /></a>
 <a href="https://testing-library.com/"><img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-ffffff?style=for-the-badge&logo=testinglibrary&logoColor=E33332" /></a>
 <a href="https://eslint.org/"><img alt="ESLint" src="https://img.shields.io/badge/-ESLint-ffffff?style=for-the-badge&logo=eslint&logoColor=4B32C3" /></a>
 <a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-ffffff?style=for-the-badge&logo=prettier&logoColor=F7B93E" /></a>
@@ -37,6 +41,7 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
 <a href="https://httpd.apache.org/"><img alt="Apache" src="https://img.shields.io/badge/-Apache-ffffff?style=for-the-badge&logo=apache&logoColor=D22128" /></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
+<a href="https://www.jetbrains.com/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffffff?style=for-the-badge&logo=intellijidea&logoColor=000000" /></a>
 <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/-Notepad++-ffffff?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A" /></a>
 <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/-FileZilla-ffffff?style=for-the-badge&logo=filezilla&logoColor=BF0000" /></a>
 <a href="https://winscp.net/"><img alt="WinSCP" src="https://img.shields.io/badge/-WinSCP-ffffff?style=for-the-badge" /></a>
@@ -67,6 +72,8 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://www.mural.co/"><img alt="Mural" src="https://img.shields.io/badge/-Mural-ffffff?style=for-the-badge&logo=mural&logoColor=FF4B4B" /></a>
 <a href="https://www.microsoft.com/access/"><img alt="Microsoft Access" src="https://img.shields.io/badge/-Microsoft%20Access-ffffff?style=for-the-badge&logo=microsoftaccess&logoColor=A4373A" /></a>
 <a href="#"><img alt="Regex" src="https://img.shields.io/badge/-Regex-ffffff?style=for-the-badge" /></a>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josch87&layout=compact)
 
 ### Certificates
 
