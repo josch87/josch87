@@ -34,11 +34,16 @@ At present, I am working at the software department of the [Berlin International
 <a href="https://styled-components.com/"><img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-ffffff?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" /></a>
 <a href="https://add0n.com/stylus.html"><img alt="Stylus" src="https://img.shields.io/badge/-Stylus-ffffff?style=for-the-badge&logo=stylus&logoColor=333333" /></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/-Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37" /></a>
+<a href="https://www.openapis.org/"><img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-ffffff?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" /></a>
 <a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-ffffff?style=for-the-badge" /></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032" /></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717" /></a>
+<a href="https://maven.apache.org/"><img alt="Maven" src="https://img.shields.io/badge/-Maven-ffffff?style=for-the-badge&logo=apachemaven&logoColor=C71A36" /></a>
+<a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/-Gradle-ffffff?style=for-the-badge&logo=gradle&logoColor=02303A" /></a>
 <a href="https://www.npmjs.com/"><img alt="NPM" src="https://img.shields.io/badge/-NPM-ffffff?style=for-the-badge&logo=npm&logoColor=CB3837" /></a>
+<a href="https://pnpm.io/"><img alt="PNPM" src="https://img.shields.io/badge/-PNPM-ffffff?style=for-the-badge&logo=pnpm&logoColor=F69220" /></a>
 <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+<a href="https://render.com/"><img alt="Render" src="https://img.shields.io/badge/-Render-ffffff?style=for-the-badge&logo=render&logoColor=000000" /></a>
 <a href="https://httpd.apache.org/"><img alt="Apache" src="https://img.shields.io/badge/-Apache-ffffff?style=for-the-badge&logo=apache&logoColor=D22128" /></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
 <a href="https://www.jetbrains.com/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffffff?style=for-the-badge&logo=intellijidea&logoColor=000000" /></a>
