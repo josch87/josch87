@@ -1,20 +1,13 @@
-# Hi, I'm Aljoscha
+# Hi, I'm Aljoscha 👋
 
 **Full-Stack Developer** focused on building maintainable web applications, scalable backend systems and cloud infrastructure. 
 
-My background in technical product ownership and operational software systems helps me bridge the gap between business requirements and technical implementation. Previously Technical Product Owner at the Berlin International Film Festival (Berlinale).
+My work in complex software environments has shaped a pragmatic approach to translating requirements into technical solutions and running them in production environments.
 
-[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>)
+Background in technical product ownership, quality assurance and business-critical systems at the [Berlin International Film Festival](https://www.berlinale.de/) (Berlinale).
 
-[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat&logo=react&logoColor=61DAFB" /></a>)
+[Portfolio](https://dev.aljoschazoeller.com) | [LinkedIn](https://www.linkedin.com/in/aljoschazoeller/)
 
-[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&logoColor=61DAFB" /></a>)
-
-[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></a>)
-
-[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>)
-
-[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>)
 
 ## Backend Engineering
 Java · Spring Boot · REST APIs · OAuth2 · SQL
@@ -55,18 +48,6 @@ JUnit · Jest · Vitest · React Testing Library · Playwright
 - Test-driven development
 - Code quality workflows
 
-## Full-Stack Developer
-
-<img align="right" alt="Software Engineer building an app" src="assets/software-engineer.gif" width="200" height="200"/>
-
-As a **Product Owner** and **IT Project Manager**, my focus is on leveraging my expertise in **frontend technologies and databases**. As a **trained actor**, I can easily empathize with stakeholders to gather and process requirements in an understandable manner.
-
-I am fluent in both German and English and currently reside in Berlin, Germany.
-
-At present, I am working at the software department of the [Berlin International Film Festival](https://www.berlinale.de/) (Berlinale).
-
-<a href="https://www.linkedin.com/in/aljoschazoeller/"><img width="50" height="50" alt="LinkedIn" title="LinkedIn" src="assets/icons/linkedin.png" /></a>
-<a href="https://www.xing.com/profile/Aljoscha_Zoeller"><img width="50" height="50" alt="XING" title="Xing" src="assets/icons/xing.png" /></a>
 
 ### Languages &amp; Tools
 
