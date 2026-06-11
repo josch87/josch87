@@ -1,8 +1,27 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=407cff&height=200&text=Aljoscha%20Zöller&fontAlign=69&rotate=13&fontColor=ffffff&fontSize=60&fontAlignY=20&desc=Product%20Owner%20|%20IT%20Project%20Manager%20|%20Fullstack%20Developer&descAlign=70&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Full-Stack%20Developer&fontColor=fe6837&fontAlign=50&section=header&textBg=false&stroke=000000&fontSize=70)
 
-# Hey, I'm Aljoscha!
+# Hi, I'm Aljoscha
 
-## Product Owner | IT Project Manager | Fullstack Developer
+**Full-Stack Developer** focused on building maintainable web applications, scalable backend systems and cloud infrastructure. 
+
+My background in technical product ownership and operational software systems helps me bridge the gap between business requirements and technical implementation. Previously Technical Product Owner at the Berlin International Film Festival (Berlinale).
+
+
+## Backend Engineering
+![test](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript&logoColor=3178C6)
+<a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge" /></a>
+- **Backend**: Java · Spring Boot · REST APIs · OAuth2 · SQL
+
+## Frontend
+TypeScript · React · Next.js · Tailwind CSS · shadcn/ui
+
+## Cloud & DevOps
+AWS · Terraform · Docker · CI/CD · Linux
+
+## Testing
+JUnit · Jest · Vitest · React Testing Library · Playwright
+
+## Full-Stack Developer
 
 <img align="right" alt="Software Engineer building an app" src="assets/software-engineer.gif" width="200" height="200"/>
 
