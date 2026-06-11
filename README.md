@@ -8,7 +8,14 @@ My background in technical product ownership and operational software systems he
 
 
 ## Backend Engineering
-<img src="https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&link=https%3A%2F%2Fwww.java.com%2F" alt="Badge">
+
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat&logo=react&logoColor=61DAFB" /></a>
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&logoColor=61DAFB" /></a>
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></a>
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
+---
+<img src="https://img.shields.io/badge/React-f3f3f3?style=flat&logo=react&link=https%3A%2F%2Fwww.java.com%2F" alt="Badge">
 <img src="https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&link=https%3A%2F%2Fwww.java.com%2F" alt="Badge">
 - **Backend**: Java · Spring Boot · REST APIs · OAuth2 · SQL
 
