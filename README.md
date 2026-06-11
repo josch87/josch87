@@ -13,6 +13,11 @@ My background in technical product ownership and operational software systems he
 - **Backend**: Java · Spring Boot · REST APIs · OAuth2 · SQL
 
 ## Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&labelColor=e4e4e4&logo=typescript&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![](https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&link=https%3A%2F%2Freact.dev%2F)
+
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&link=https%3A%2F%2Freact.dev%2F)
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
 TypeScript · React · Next.js · Tailwind CSS · shadcn/ui
 
 ## Cloud & DevOps
