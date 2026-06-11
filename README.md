@@ -8,8 +8,7 @@ My background in technical product ownership and operational software systems he
 
 
 ## Backend Engineering
-![test](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript&logoColor=3178C6)
-<a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge" /></a>
+![Java](https://img.shields.io/badge/Java-EA2D2E?style=flat-square&link=https%3A%2F%2Fwww.java.com%2F)
 - **Backend**: Java · Spring Boot · REST APIs · OAuth2 · SQL
 
 ## Frontend
