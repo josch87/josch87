@@ -1,37 +1,59 @@
-![slice](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Full-Stack%20Developer&fontColor=fe6837&fontAlign=50&section=header&textBg=false&stroke=000000&fontSize=70)
-
 # Hi, I'm Aljoscha
 
 **Full-Stack Developer** focused on building maintainable web applications, scalable backend systems and cloud infrastructure. 
 
 My background in technical product ownership and operational software systems helps me bridge the gap between business requirements and technical implementation. Previously Technical Product Owner at the Berlin International Film Festival (Berlinale).
 
+[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>)
+
+[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat&logo=react&logoColor=61DAFB" /></a>)
+
+[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&logoColor=61DAFB" /></a>)
+
+[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></a>)
+
+[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>)
+
+[//]: # (<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>)
 
 ## Backend Engineering
+Java · Spring Boot · REST APIs · OAuth2 · SQL
 
-<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat&logo=react&logoColor=61DAFB" /></a>
-<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&logoColor=61DAFB" /></a>
-<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></a>
-<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
----
-<img src="https://img.shields.io/badge/React-f3f3f3?style=flat&logo=react&link=https%3A%2F%2Fwww.java.com%2F" alt="Badge">
-<img src="https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&link=https%3A%2F%2Fwww.java.com%2F" alt="Badge">
-- **Backend**: Java · Spring Boot · REST APIs · OAuth2 · SQL
+- RESTful backend systems
+- Authentication & authorization
+- SQL & data modeling
+- Backend architecture
+- API design
 
-## Frontend
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&labelColor=e4e4e4&logo=typescript&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
-![](https://img.shields.io/badge/React-f3f3f3?style=flat-square&logo=react&link=https%3A%2F%2Freact.dev%2F)
 
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&link=https%3A%2F%2Freact.dev%2F)
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
+## Frontend Development
 TypeScript · React · Next.js · Tailwind CSS · shadcn/ui
+
+- React & Next.js applications
+- TypeScript-first development
+- State management
+- Responsive UI systems
+- Component architecture
+
 
 ## Cloud & DevOps
 AWS · Terraform · Docker · CI/CD · Linux
 
-## Testing
+- AWS infrastructure
+- Terraform & Infrastructure as Code
+- Dockerized environments
+- CI/CD pipelines
+- Linux environments
+
+
+## Testing & Quality
 JUnit · Jest · Vitest · React Testing Library · Playwright
+
+- Unit & integration testing
+- Component testing
+- End-to-end testing
+- Test-driven development
+- Code quality workflows
 
 ## Full-Stack Developer
 
