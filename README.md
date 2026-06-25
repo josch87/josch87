@@ -9,6 +9,7 @@ Previously worked on internal applications supporting more than 800 users at the
 🌐 Portfolio: [dev.aljoschazoeller.com](https://dev.aljoschazoeller.com)<br />
 💼 LinkedIn: [www.linkedin.com/in/aljoschazoeller/](https://www.linkedin.com/in/aljoschazoeller/)
 
+---
 
 ## Featured Projects
 
@@ -31,6 +32,8 @@ Progressive Web App for managing personal relationships.<br />
 **Next.js · React · JavaScript · Styled Components**
 
 📎 [Live Demo](https://gunther.aljoschazoeller.com/) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • 💻 [Source Code](https://github.com/josch87/Gunther)
+
+---
 
 ## Backend Engineering
 Java · Spring Boot · SQL · REST APIs · OAuth2
@@ -71,9 +74,11 @@ JUnit · Jest · Vitest · React Testing Library · Playwright
 - Test automation
 - Quality-focused development
 
-
+---
 
 ![Top Languages](https://github-readme-stats.aljoschazoeller.com/api/top-langs/?username=josch87&layout=compact)
+
+---
 
 ### Certifications
 
