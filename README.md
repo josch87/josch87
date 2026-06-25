@@ -33,7 +33,7 @@ Progressive Web App for managing personal relationships.<br />
 📎 [Live Demo](https://gunther.aljoschazoeller.com/) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • 💻 [Source Code](https://github.com/josch87/Gunther)
 
 ## Backend Engineering
-Java · Spring Boot · REST APIs · OAuth2 · SQL
+Java · Spring Boot · SQL · REST APIs · OAuth2
 
 - Designing RESTful APIs
 - Authentication & authorization
@@ -57,7 +57,7 @@ AWS · Terraform · Docker · CI/CD · Linux
 
 - Infrastructure as Code
 - Secure AWS networking
-- Dockerized environments
+- Dockerized deployments
 - CI/CD automation
 - Linux administration
 
@@ -66,7 +66,7 @@ AWS · Terraform · Docker · CI/CD · Linux
 JUnit · Jest · Vitest · React Testing Library · Playwright
 
 - Unit & integration testing
-- Frontend Component testing
+- Frontend component testing
 - End-to-end testing
 - Test automation
 - Quality-focused development
