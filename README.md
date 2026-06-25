@@ -21,14 +21,14 @@ Designed and developed a full-stack platform for managing structured film festiv
 
 ### ☁️ Film Festival Infrastructure
 
-Designed and deployed cloud infrastructure for scalable web applications built with Terraform and AWS.<br />
+Designed and deployed scalable cloud infrastructure using Terraform and AWS.<br />
 **AWS · Terraform · Linux · Auto Scaling · ALB**
 
 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/film-festival-infrastruktur) • 💻 [Source Code](https://github.com/josch87/film-festival-infrastructure)
 
 ### 🤝 Gunther
 
-Designed and developed a Progressive Web App for managing personal relationships.<br />
+Designed and developed a progressive web app for managing personal relationships.<br />
 **Next.js · React · JavaScript · Styled Components**
 
 📎 [Live Demo](https://gunther.aljoschazoeller.com/) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • 💻 [Source Code](https://github.com/josch87/Gunther)
@@ -39,9 +39,9 @@ Designed and developed a Progressive Web App for managing personal relationships
 Java · Spring Boot · SQL · REST APIs · OAuth2
 
 - Designing RESTful APIs
+- Business logic implementation
 - Authentication & authorization
 - SQL data modeling
-- Business logic implementation
 - Scalable backend services
 
 
@@ -78,5 +78,5 @@ AWS · Terraform · Docker · CI/CD · Linux
 
 <a href="https://www.credly.com/badges/37d8ca8e-512c-4b82-8edf-76789da89967/public_url"><img alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner" src="assets/badges/aws-certified-cloud-practitioner.png" width="60" height="60"></a>
 <a href="https://www.credly.com/badges/41d2e174-cc47-4928-876e-d56c836c6d25/public_url"><img alt="Professional Scrum Product Owner&trade; I (PSPO I) Badge" title="Professional Scrum Product Owner&trade; I (PSPO I)" src="assets/badges/professional-scrum-product-owner-i-pspo-i.png" width="60" height="60"></a>
-<a href="https://www.credly.com/users/aljoscha-zoeller/badges/other"><img alt="PRINCE2 Agile&reg; Foundation Badge" title="PRINCE2 Agile&reg; Foundation Badge" src="assets/badges/prince2-agile-foundation-badge.png" width="60" height="60"></a>
-<a href="https://www.credly.com/users/aljoscha-zoeller/badges/other"><img alt="PRINCE2 Agile&reg; Practitioner Badge" title="PRINCE2 Agile&reg; Practitioner Badge" src="assets/badges/prince2-agile-practitioner-badge.png" width="60" height="60"></a>
+<a href="https://www.credly.com/users/aljoscha-zoeller/badges/other"><img alt="PRINCE2 Agile&reg; Foundation Badge" title="PRINCE2 Agile&reg; Foundation" src="assets/badges/prince2-agile-foundation-badge.png" width="60" height="60"></a>
+<a href="https://www.credly.com/users/aljoscha-zoeller/badges/other"><img alt="PRINCE2 Agile&reg; Practitioner Badge" title="PRINCE2 Agile&reg; Practitioner" src="assets/badges/prince2-agile-practitioner-badge.png" width="60" height="60"></a>
