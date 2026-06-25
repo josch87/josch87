@@ -2,7 +2,7 @@
 
 **Full Stack Developer** building modern web applications, REST APIs, and cloud-native solutions.
 
-I enjoy translating complex business requirements into clean, maintainable software. My background in business-critical software environments has given me a pragmatic engineering mindset focused on scalable architectures, reliable production systems, and long-term maintainability.
+I enjoy translating complex business requirements into clean, maintainable software. Working in business-critical software environments has given me a pragmatic engineering mindset focused on scalable architectures, reliable production systems, and long-term maintainability.
 
 Previously worked on internal applications supporting more than 800 users at the Berlin International Film Festival (Berlinale), bridging business needs and technical implementation.
 
@@ -14,21 +14,21 @@ Previously worked on internal applications supporting more than 800 users at the
 ## Featured Projects
 
 ### 🎬 Cinetiq
-Full-stack platform for managing structured film festival data.<br />
+Designed and developed a full-stack platform for managing structured film festival data.<br />
 **Java · Spring Boot · React · MongoDB · OAuth2 · Docker**
 
 📎 [Live Demo](https://app.cinetiq.aljoschazoeller.com) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/cinetiq) • 💻 [Source Code](https://github.com/josch87/Cinetiq)
 
 ### ☁️ Film Festival Infrastructure
 
-Cloud infrastructure for scalable web applications built with Terraform and AWS.<br />
+Designed and deployed cloud infrastructure for scalable web applications built with Terraform and AWS.<br />
 **AWS · Terraform · Linux · Auto Scaling · ALB**
 
 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/film-festival-infrastruktur) • 💻 [Source Code](https://github.com/josch87/film-festival-infrastructure)
 
 ### 🤝 Gunther
 
-Progressive Web App for managing personal relationships.<br />
+Designed and developed a Progressive Web App for managing personal relationships.<br />
 **Next.js · React · JavaScript · Styled Components**
 
 📎 [Live Demo](https://gunther.aljoschazoeller.com/) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • 💻 [Source Code](https://github.com/josch87/Gunther)
@@ -40,9 +40,9 @@ Java · Spring Boot · SQL · REST APIs · OAuth2
 
 - Designing RESTful APIs
 - Authentication & authorization
-- Relational database design
-- Backend architecture
-- Production-ready services
+- SQL data modeling
+- Business logic implementation
+- Scalable backend services
 
 
 ## Frontend Development
@@ -51,7 +51,7 @@ TypeScript · React · Next.js · Tailwind CSS · shadcn/ui
 - React & Next.js applications
 - TypeScript-first development
 - State management
-- Responsive UI systems
+- Responsive user interfaces
 - Component architecture
 
 
