@@ -1,6 +1,6 @@
 # Hi, I'm Aljoscha 👋
 
-**Full Stack Developer** building modern web applications, REST APIs and cloud-native solutions.
+**Full Stack Developer** building modern web applications, REST APIs, and cloud-native solutions.
 
 I enjoy translating complex business requirements into clean, maintainable software. My background in business-critical software environments has given me a pragmatic engineering mindset focused on scalable architectures, reliable production systems and long-term maintainability.
 
@@ -16,21 +16,21 @@ Previously worked on internal applications supporting more than 800 users at the
 Full-stack platform for managing structured film festival data.<br />
 **Java · Spring Boot · React · MongoDB · OAuth2 · Docker**
 
-[📎 Live Demo](https://app.cinetiq.aljoschazoeller.com) • [🌐 Project Details](https://dev.aljoschazoeller.com/de/projekte/cinetiq) • [💻 Source Code](https://github.com/josch87/Cinetiq)
+📎 [Live Demo](https://app.cinetiq.aljoschazoeller.com) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/cinetiq) • 💻 [Source Code](https://github.com/josch87/Cinetiq)
 
 ### ☁️ Film Festival Infrastructure
 
 Production-style AWS infrastructure built with Infrastructure as Code.
 **AWS · Terraform · Linux · Auto Scaling · ALB**
 
-[🌐 Project Details](https://dev.aljoschazoeller.com/de/projekte/film-festival-infrastruktur) • [💻 Source Code](https://github.com/josch87/film-festival-infrastructure)
+🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/film-festival-infrastruktur) • 💻 [Source Code](https://github.com/josch87/film-festival-infrastructure)
 
 ### 🤝 Gunther
 
 Progressive Web App for managing personal relationships.
 **Next.js · React · JavaScript · Styled Components**
 
-[📎 Live Demo](https://gunther.aljoschazoeller.com/) • [🌐 Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • [💻 Source Code](https://github.com/josch87/Gunther)
+📎 [Live Demo](https://gunther.aljoschazoeller.com/) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • 💻 [Source Code](https://github.com/josch87/Gunther)
 
 ## Backend Engineering
 Java · Spring Boot · REST APIs · OAuth2 · SQL
