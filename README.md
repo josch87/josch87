@@ -64,23 +64,13 @@ AWS · Terraform · Docker · CI/CD · Linux
 - CI/CD automation
 - Linux administration
 
-
-## Testing & Quality
-JUnit · Jest · Vitest · React Testing Library · Playwright
-
-- Unit & integration testing
-- Frontend component testing
-- End-to-end testing
-- Test automation
-- Quality-focused development
-
 ---
 
 ![Top Languages](https://github-readme-stats.aljoschazoeller.com/api/top-langs/?username=josch87&layout=compact)
 
 ---
 
-### Certifications
+## Certifications
 
 - AWS Certified Cloud Practitioner
 - Professional Scrum Product Owner&trade; I (PSPO I)
