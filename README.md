@@ -2,7 +2,7 @@
 
 **Full Stack Developer** building modern web applications, REST APIs, and cloud-native solutions.
 
-I enjoy translating complex business requirements into clean, maintainable software. My background in business-critical software environments has given me a pragmatic engineering mindset focused on scalable architectures, reliable production systems and long-term maintainability.
+I enjoy translating complex business requirements into clean, maintainable software. My background in business-critical software environments has given me a pragmatic engineering mindset focused on scalable architectures, reliable production systems, and long-term maintainability.
 
 Previously worked on internal applications supporting more than 800 users at the Berlin International Film Festival (Berlinale), bridging business needs and technical implementation.
 
@@ -20,14 +20,14 @@ Full-stack platform for managing structured film festival data.<br />
 
 ### ☁️ Film Festival Infrastructure
 
-Production-style AWS infrastructure built with Infrastructure as Code.
+Cloud infrastructure for scalable web applications built with Terraform and AWS.<br />
 **AWS · Terraform · Linux · Auto Scaling · ALB**
 
 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/film-festival-infrastruktur) • 💻 [Source Code](https://github.com/josch87/film-festival-infrastructure)
 
 ### 🤝 Gunther
 
-Progressive Web App for managing personal relationships.
+Progressive Web App for managing personal relationships.<br />
 **Next.js · React · JavaScript · Styled Components**
 
 📎 [Live Demo](https://gunther.aljoschazoeller.com/) • 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • 💻 [Source Code](https://github.com/josch87/Gunther)
