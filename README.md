@@ -1,22 +1,23 @@
 # Hi, I'm Aljoscha 👋
 
-**Full-Stack Developer** focused on building maintainable web applications, scalable backend systems and cloud infrastructure. 
+**Full Stack Developer** building modern web applications, REST APIs and cloud-native solutions.
 
-My work in complex software environments has shaped a pragmatic approach to translating requirements into technical solutions and running them in production environments.
+I enjoy translating complex business requirements into clean, maintainable software. My background in business-critical software environments has given me a pragmatic engineering mindset focused on scalable architectures, reliable production systems and long-term maintainability.
 
-Background in technical product ownership, quality assurance and business-critical systems at the [Berlin International Film Festival](https://www.berlinale.de/) (Berlinale).
+Previously worked on internal applications supporting more than 800 users at the Berlin International Film Festival (Berlinale), bridging business needs and technical implementation.
 
-[Portfolio](https://dev.aljoschazoeller.com) | [LinkedIn](https://www.linkedin.com/in/aljoschazoeller/)
+🌐 Portfolio: <a href="https://dev.aljoschazoeller.com" target="_blank">dev.aljoschazoeller.com</a><br />
+💼 LinkedIn: <a href="https://www.linkedin.com/in/aljoschazoeller/" target="_blank">www.linkedin.com/in/aljoschazoeller/</a>
 
 
 ## Backend Engineering
 Java · Spring Boot · REST APIs · OAuth2 · SQL
 
-- RESTful backend systems
+- Designing RESTful APIs
 - Authentication & authorization
-- SQL & data modeling
+- Relational database design
 - Backend architecture
-- API design
+- Production-ready services
 
 
 ## Frontend Development
@@ -32,27 +33,29 @@ TypeScript · React · Next.js · Tailwind CSS · shadcn/ui
 ## Cloud & DevOps
 AWS · Terraform · Docker · CI/CD · Linux
 
-- AWS infrastructure
-- Terraform & Infrastructure as Code
+- Infrastructure as Code
+- Secure AWS networking
 - Dockerized environments
-- CI/CD pipelines
-- Linux environments
+- CI/CD automation
+- Linux administration
 
 
 ## Testing & Quality
 JUnit · Jest · Vitest · React Testing Library · Playwright
 
 - Unit & integration testing
-- Component testing
+- Frontend Component testing
 - End-to-end testing
-- Test-driven development
-- Code quality workflows
+- Test automation
+- Quality-focused development
 
 
 
 ![Top Languages](https://github-readme-stats.aljoschazoeller.com/api/top-langs/?username=josch87&layout=compact)
 
-### Certificates
+### Certifications
+
+
 
 <a href="https://www.credly.com/badges/41d2e174-cc47-4928-876e-d56c836c6d25/public_url"><img alt="Professional Scrum Product Owner&trade; I (PSPO I) Badge" title="Professional Scrum Product Owner&trade; I (PSPO I)" src="assets/badges/professional-scrum-product-owner-i-pspo-i.png" width="120" height="120"></a>
 <a href="https://www.credly.com/org/peoplecert/badge/prince2-agile-foundation"><img alt="PRINCE2 Agile&reg; Foundation Badge" title="PRINCE2 Agile&reg; Foundation" src="assets/badges/prince2-agile-foundation-badge.png" width="120" height="120"></a>
