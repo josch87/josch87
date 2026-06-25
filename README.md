@@ -22,7 +22,7 @@ Designed and developed a full-stack platform for managing structured film festiv
 ### ☁️ Film Festival Infrastructure
 
 Designed and deployed scalable cloud infrastructure using Terraform and AWS.<br />
-**AWS · Terraform · Linux · Auto Scaling · ALB**
+**AWS · Terraform · Linux · Auto Scaling · Load Balancing**
 
 🌐 [Project Details](https://dev.aljoschazoeller.com/de/projekte/film-festival-infrastruktur) • 💻 [Source Code](https://github.com/josch87/film-festival-infrastructure)
 
