@@ -6,8 +6,9 @@ I enjoy translating complex business requirements into clean, maintainable softw
 
 Previously worked on internal applications supporting more than 800 users at the Berlin International Film Festival (Berlinale), bridging business needs and technical implementation.
 
-🌐 Portfolio: <a href="https://dev.aljoschazoeller.com" target="_blank">dev.aljoschazoeller.com</a><br />
-💼 LinkedIn: <a href="https://www.linkedin.com/in/aljoschazoeller/" target="_blank">www.linkedin.com/in/aljoschazoeller/</a>
+🌐 Portfolio: [dev.aljoschazoeller.com](https://dev.aljoschazoeller.com)<br />
+💼 LinkedIn: [www.linkedin.com/in/aljoschazoeller/](https://www.linkedin.com/in/aljoschazoeller/)
+
 
 
 ## Backend Engineering
