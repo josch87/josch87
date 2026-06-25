@@ -10,6 +10,27 @@ Previously worked on internal applications supporting more than 800 users at the
 💼 LinkedIn: [www.linkedin.com/in/aljoschazoeller/](https://www.linkedin.com/in/aljoschazoeller/)
 
 
+## Featured Projects
+
+### 🎬 Cinetiq
+Full-stack platform for managing structured film festival data.<br />
+**Java · Spring Boot · React · MongoDB · OAuth2 · Docker**
+
+[📎 Live Demo](https://app.cinetiq.aljoschazoeller.com) • [🌐 Project Details](https://dev.aljoschazoeller.com/de/projekte/cinetiq) • [💻 Source Code](https://github.com/josch87/Cinetiq)
+
+### ☁️ Film Festival Infrastructure
+
+Production-style AWS infrastructure built with Infrastructure as Code.
+**AWS · Terraform · Linux · Auto Scaling · ALB**
+
+[🌐 Project Details](https://dev.aljoschazoeller.com/de/projekte/film-festival-infrastruktur) • [💻 Source Code](https://github.com/josch87/film-festival-infrastructure)
+
+### 🤝 Gunther
+
+Progressive Web App for managing personal relationships.
+**Next.js · React · JavaScript · Styled Components**
+
+[📎 Live Demo](https://gunther.aljoschazoeller.com/) • [🌐 Project Details](https://dev.aljoschazoeller.com/de/projekte/gunther) • [💻 Source Code](https://github.com/josch87/Gunther)
 
 ## Backend Engineering
 Java · Spring Boot · REST APIs · OAuth2 · SQL
