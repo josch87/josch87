@@ -2,9 +2,9 @@
 
 **Full Stack Developer** building modern web applications, REST APIs, and cloud-native solutions.
 
-I enjoy translating complex business requirements into clean, maintainable software. Working in business-critical software environments has given me a pragmatic engineering mindset focused on scalable architectures, reliable production systems, and long-term maintainability.
+I enjoy translating complex business requirements into reliable, maintainable software. Working at the intersection of business and software development taught me to balance delivery speed, technical quality, and real operational needs.
 
-Previously worked on internal applications supporting more than 800 users at the Berlin International Film Festival (Berlinale), bridging business needs and technical implementation.
+Previously worked on internal applications supporting the Berlin International Film Festival (Berlinale) and the European Film Market (EFM), where more than 800 internal users relied on software to coordinate festival operations.
 
 🌐 Portfolio: [dev.aljoschazoeller.com](https://dev.aljoschazoeller.com)<br />
 💼 LinkedIn: [www.linkedin.com/in/aljoschazoeller/](https://www.linkedin.com/in/aljoschazoeller/)
