@@ -2,6 +2,8 @@
 
 **Full Stack Developer** building modern web applications, REST APIs, and cloud-native solutions.
 
+**Primary Stack:** Java · Spring Boot · TypeScript · React · AWS · Terraform · Docker
+
 I enjoy translating complex business requirements into reliable, maintainable software. Working at the intersection of business and software development taught me to balance delivery speed, technical quality, and real operational needs.
 
 Previously worked on internal applications supporting the Berlin International Film Festival (Berlinale) and the European Film Market (EFM), where more than 800 internal users relied on software to coordinate festival operations.
