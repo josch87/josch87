@@ -68,7 +68,7 @@ AWS · Terraform · Docker · CI/CD · Linux
 
 ---
 
-![Top Languages](https://github-readme-stats.aljoschazoeller.com/api/top-langs/?username=josch87&layout=compact)
+![Top Languages](https://github-stats-extended.aljoschazoeller.com/api/top-langs/?username=josch87&layout=compact)
 
 ---
 
